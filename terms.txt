@@ -1,0 +1,49 @@
+Last Updated: Sep 22th, 2024
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY
+The terms of this agreement ("Terms of Service") govern the relationship between you and Backflip Games, a Polish non-registered business. (hereinafter "Backflip Games" or "Us" or "We" or “Our”) regarding your use of Backflip Games' games (also referred to as “app” or “apps”), other websites and related services (the "Service"). Use of the Service is also governed by Backflip Games’s Privacy Policy and other relevant policies, which are incorporated herein by reference.
+Before accessing or using the Service, whether by browsing any Backflip Games website or otherwise, you are required to consent to both the Terms of Service and the Privacy Policy. Additionally, you confirm that you are of legal age in your country of residence. If you are not, your legal guardian must review and consent to these Terms on your behalf. Should you access the Service via a Social Networking Site ("SNS"), such as Facebook or Google, you must also adhere to its terms of service/use in addition to these Terms of Service.
+By installing, utilizing, or otherwise accessing the Service, you are consenting to abide by these Terms of Service. If you do not consent to these Terms of Service, kindly refrain from installing, using, or otherwise accessing the Service. Use of the service is void where prohibited.
+Backflip Games reserves the authority to modify, amend, add, or delete sections of these Terms of Service, its Privacy Policy, and other pertinent Backflip Games guidelines at its discretion. Such changes will be communicated by posting the updated terms on the Backflip Games Service. Your continued use of the Service will be considered acceptance of these modifications. If you disagree with any part of the current version of our Terms of Service, the Backflip Games Privacy Policy, or any other policies, regulations, or standards concerning your use of the Service, your permission to use the Service will cease immediately, and you must discontinue usage of the service.
+The materials contained in our games are protected by applicable copyright and trademark law.
+
+
+You are permitted to temporarily download one copy of the app per device for personal, non-commercial viewing purposes only. It is prohibited to copy or alter the app, any of its components, or our trademarks in any manner. You are also restricted from attempting to extract the app's source code, translating it into other languages, or creating derivative versions. Ownership of the app itself, along with all associated trademarks, copyrights, database rights, and other intellectual property rights, remains with Backflip Games. This license will automatically cease if you breach any of these conditions and may be revoked by Backflip Games at any time. Upon termination of your access to these materials or the expiration of this license, you must delete any downloaded materials in your possession, whether electronic or printed.
+
+
+Backflip Games is dedicated to maximizing the usefulness and efficiency of the app. Therefore, we retain the authority to modify the app or implement charges for its services, for any reason and at any time. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+
+Merge Castle TD app stores and processes personal data that you have provided to us, to provide running of the Service. Ensuring the security of your phone and access to the app is your responsibility. Hence, we advise against jailbreaking or rooting your phone, which involves removing software restrictions set by the official operating system. This action may expose your phone to malware, compromise its security features, and potentially disrupt the functionality of the Backflip Games app.
+
+The app does use third-party services that declare their Terms of Service.
+
+Link to Terms of Service of third-party service providers used by the app:
+
+
+Google Play Services
+Unity
+Firebase
+
+
+Please note that there are certain matters for which Backflip Games cannot accept responsibility. Some features of the app necessitate an active internet connection, which can be either Wi-Fi or provided by your mobile network provider. However, Backflip Games cannot be held responsible if the app does not operate at full functionality due to a lack of Wi-Fi access or depletion of your data allowance.
+
+If you're using the app in an area without Wi-Fi, it's important to be mindful that your agreement with your mobile network provider remains applicable. Consequently, you may incur charges from your mobile provider for data usage while accessing the app, or incur other third-party fees. By using the app, you acknowledge responsibility for such charges, which may include roaming data fees if you use the app outside your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you're using the app, please ensure you have obtained permission from the bill payer.
+
+
+Regarding Backflip Games's accountability for your app usage, it's crucial to understand that while we strive to maintain the app updated and accurate, we depend on third parties to furnish us with information for your benefit. Backflip Games cannot be held liable for any direct or indirect losses you may incur by solely relying on this app functionality.
+
+At some stage, we may consider updating the app. Currently, it is accessible on Android - the system requirements (and for any potential expansion to other systems) may alter, necessitating you to install updates if you wish to continue using the app. Backflip Games cannot guarantee continuous updates to ensure the app remains relevant to you and/or compatible with your installed Android version. Nevertheless, you agree to consistently accept offered application updates. We reserve the right to discontinue app provision and terminate its usage without prior notice to you. Unless stated otherwise, upon termination: (a) the rights and licenses granted to you under these terms will cease; (b) you must discontinue app usage and, if necessary, remove it from your device.
+
+Changes to This Terms of Service:
+
+We may update our Terms of Service from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page.
+
+These Terms of Service are effective as of Sep 22th, 2024
+
+Contact Us:
+
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact Backflip Games at contact.backflipgames@gmail.com
+
+
+
+
+
